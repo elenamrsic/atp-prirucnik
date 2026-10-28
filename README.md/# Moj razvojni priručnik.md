@@ -1,10 +1,10 @@
 # Moj razvojni priručnik
 
-[Jedna rečenica: što je ovaj priručnik i čemu služi.]
+Ovaj priručnik sadrži praktične upute za korištenje terminala, Gita i alata potrebnih za razvoj softvera.
 
 ## Kome je namijenjen
 
-[Tko je čitatelj? Što već zna, a što ne zna?]
+Čitatelj je Elena
 
 ## Moje razvojno okruženje
 

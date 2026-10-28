@@ -5,12 +5,11 @@
      Očekivane rezultate prepišite sa SVOJEG zaslona, ne izmišljajte ih.
      Kad završite, ovaj komentar izbrišite. -->
 
-[Jedna ili dvije rečenice: što će čitatelj naučiti u ovom tutorialu i koliko otprilike traje.]
-
+Ovaj tutorial objašnjava osnovne naredbe terminala za pregled mapa, stvaranje datoteka i upravljanje njima. Za prolazak kroz upute potrebno je oko 10 minuta.
 ## Prije početka
 
-- [Na kojem operacijskom sustavu i u kojem terminalu radite? Npr. Windows 11 i Git Bash.]
-- Visual Studio Code je pokrenut, a u njemu je otvorena mapa [koja?].
+- Radim na operacijskom sustavu Windows i koristim terminal u Visual Studio Codeu.
+- Radim na operacijskom sustavu Windows i koristim terminal u Visual Studio Codeu.
 
 ## 1. Otvorite terminal
 
@@ -54,7 +53,7 @@ cat biljeske.md
 
 **Očekivani rezultat:** [Prepišite ispis.]
 
-[Jednom ili dvjema rečenicama objasnite čitatelju razliku između `>` i `>>`.]
+Operator > zapisuje tekst u datoteku i pritom briše njezin prethodni sadržaj. Operator >> dodaje novi tekst na kraj datoteke, a postojeći sadržaj ostaje sačuvan.
 
 ## 6. Kopirajte, preimenujte i izbrišite datoteku
 
@@ -67,7 +66,7 @@ ls
 
 **Očekivani rezultat:** [Što ispiše `ls`?]
 
-[Upozorite čitatelja na ono što je važno znati prije naredbe `rm`.]
+Prije korištenja naredbe rm provjerite naziv datoteke i jeste li u pravoj mapi jer se obrisana datoteka ne premješta u koš za smeće.
 
 ## Ako ne radi
 

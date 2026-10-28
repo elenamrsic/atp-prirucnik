@@ -77,4 +77,4 @@ Prije korištenja naredbe rm provjerite naziv datoteke i jeste li u pravoj mapi 
 
 ## Što dalje
 
-[Gdje čitatelj može naučiti više? Npr. priručnik Srca *Uvod u Linux*, poglavlja 2 i 3.]
+Za dodatno učenje preporučujem službenu dokumentaciju za Git, u kojoj se mogu pronaći objašnjenja naredbi i primjeri rada s repozitorijima. Dostupna je na https://git-scm.com/doc.
